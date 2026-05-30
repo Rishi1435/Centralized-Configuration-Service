@@ -1,0 +1,19 @@
+# Maven build artifacts
+**/target/
+**/*.jar
+**/*.war
+**/*.ear
+
+# IDEs and editors
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+*.code-workspace
+.DS_Store
+
+# Local configuration
+.env
+*.postman_collection.json
