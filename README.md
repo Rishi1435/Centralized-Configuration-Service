@@ -4,6 +4,14 @@ A robust microservices configuration management system built with **Spring Cloud
 
 ---
 
+## 📺 Video Demo
+
+Watch the full walkthrough and live demonstration of the centralized configuration service in action:
+
+[![Centralized Config Service Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/SRCrdJq6MOc)
+
+---
+
 ## Architecture Overview
 
 ```
